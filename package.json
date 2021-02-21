@@ -8,8 +8,10 @@
     "dev": "nodemon server"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "dotenv": "^8.2.0"
+    "mongoose": "5.9.*",
+    "colors": "^1.4.0"
   },
   "devDependencies": {
     "prettier": "^2.2.1",
